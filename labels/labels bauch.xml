@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<labelInformation>
+    <label>
+        <interval>
+            <start>18693</start>
+            <end>37925</end>
+        </interval>
+        <description>WALK</description>
+    </label>
+    <label>
+        <interval>
+            <start>42587</start>
+            <end>48559</end>
+        </interval>
+        <description>JUMP</description>
+    </label>
+    <label>
+        <interval>
+            <start>1903</start>
+            <end>18210</end>
+        </interval>
+        <description>STAND</description>
+    </label>
+    <label>
+        <interval>
+            <start>38986</start>
+            <end>41897</end>
+        </interval>
+        <description>STAND</description>
+    </label>
+</labelInformation>
